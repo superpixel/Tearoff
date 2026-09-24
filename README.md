@@ -4,6 +4,8 @@ A small macOS utility to inspect and remove the quarantine attribute from items.
 
 <img src="Design/Screenshot/Screenshot-2026-09-24-1612.png" alt="Tearoff main window" width="512">
 
+[Download the latest release](https://github.com/superpixel/Tearoff/releases/latest)
+
 ## What it does
 
 macOS marks items that come from outside the device (web downloads, AirDrop, Messages, and so on) with a quarantine attribute. Gatekeeper uses it to show the "downloaded from the Internet" prompt the first time you open the item.
