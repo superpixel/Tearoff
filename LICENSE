@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+BRANDING
+
+This project‘s source code is licensed under the MIT License (see above).
+
+This license does not grant any rights to use the Tearoff icon and other 
+artwork (collectively, the "Tearoff Branding"). Use of the Tearoff Branding is
+governed by the terms described in BRANDING.md and, unless permission is
+obtained, is reserved to Nico Rohrbach / Superpixel.
+
+Any redistribution or modified build of this software must remove or
+replace the Tearoff Branding and must not be represented as an
+official Tearoff release.
