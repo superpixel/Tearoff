@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1 - Layer</title>
+    <defs>
+        <path d="M-189.135657,689.090965 L-293.944595,584.282026 L584.282027,-293.944596 L689.090965,-189.135657 Z M20.4822197,898.708842 L-84.3267172,793.899904 L793.899903,-84.3267188 L898.708842,20.4822197 Z M230.100097,1108.32672 L125.291159,1003.51778 L1003.51778,125.291158 L1108.32672,230.100097 Z M439.717973,1317.9446 L334.909035,1213.13566 L1213.13566,334.909035 L1317.9446,439.717973 Z" id="path-1"></path>
+        <path d="M296.444444,1242 L148.222223,1242 L148.222222,1.13686838e-13 L296.444444,1.13686838e-13 Z M592.888889,1242 L444.666668,1242 L444.666667,0 L592.888889,0 Z M889.333333,1242 L741.111111,1242 L741.111111,1.13686838e-13 L889.333333,1.13686838e-13 Z M1185.77778,1242 L1037.55555,1242 L1037.55556,0 L1185.77778,0 Z" id="path-2"></path>
+    </defs>
+    <g id="07" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Frame" xlink:href="#path-1" fill="color(display-p3 0.000 0.000 0.000)">
+            <g id="Zebra-2" transform="translate(512, 512) rotate(45) translate(-512, -512)translate(-155, -109)" xlink:href="#path-2">
+                <rect id="Rectangle-3" x="148.222222" y="1.378897e-13" width="148.222222" height="1242"></rect>
+                <rect id="Rectangle-4" x="444.666667" y="0" width="148.222222" height="1242"></rect>
+                <rect id="Rectangle-5" x="741.111111" y="1.378897e-13" width="148.222222" height="1242"></rect>
+                <rect id="Rectangle-7" x="1037.55556" y="0" width="148.222222" height="1242"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

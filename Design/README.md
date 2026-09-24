@@ -1,0 +1,1 @@
+The contents of this directory (icon, artwork) are (c) 2026 Nico Rohrbach / Superpixel, all rights reserved, and are excluded from the MIT License. See BRANDING.md for details.
