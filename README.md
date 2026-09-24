@@ -2,9 +2,9 @@
 
 A small macOS utility to inspect and remove the quarantine attribute from items.
 
-<img src="Design/Screenshot/Screenshot-2026-09-24-1612.png" alt="Tearoff main window" width="512">
-
 [Download the latest release](https://github.com/superpixel/Tearoff/releases/latest)
+
+<img src="Design/Screenshot/Screenshot-2026-09-24-1612.png" alt="Tearoff main window" width="512">
 
 ## What it does
 
